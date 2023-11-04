@@ -39,6 +39,5 @@ document.getElementById('reg-status').textContent='Regstration successful'
 
 }
 
-
-)};
+});
 
