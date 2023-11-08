@@ -29,7 +29,7 @@ body {
 }
 
 button {
-    background-color: #EBB8DD;
+    background-color: #BF2C34;
     color: #fff;
     border: none;
     padding: 5px 10px;
@@ -37,5 +37,5 @@ button {
 }
 
 button:hover {
-    background-color: #CAE7D3;
+    background-color: #707857;
 }
