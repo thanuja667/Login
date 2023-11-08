@@ -23,13 +23,13 @@ body {
 }
 
 .product, .cart-item {
-    border: 5px solid #2ec442;
+    border: 5px solid #ADD8E6;
     padding: 80px;
     margin-bottom: 80px;
 }
 
 button {
-    background-color: #af1c83;
+    background-color: #FFE5B4;
     color: #fff;
     border: none;
     padding: 5px 10px;
@@ -37,5 +37,5 @@ button {
 }
 
 button:hover {
-    background-color: #d2d42c;
+    background-color: #808080;
 }
