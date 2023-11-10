@@ -23,7 +23,7 @@ dbody {
 }
 
 .product, .cart-item {
-    border: 5px solid #74BBFB;
+    border: 5px solid #000000;
     padding: 80px;
     margin-bottom: 80px;
 }
