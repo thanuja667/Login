@@ -2,7 +2,7 @@ dbody {
     font-family: 'Arial', sans-serif;
     margin: 10px;
     text-align: left;
-    background-color: violet;
+    background-color: DeepPink;
 }
 .product{
     display:grid;
@@ -14,7 +14,7 @@ dbody {
     height: 20%;
     justify-content: normal;
     align-items: normal;
-    background-color: rgb(238, 130, 238 );
+    background-color: rgb( 225, 20, 148 );
 }
 .products, .cart {
     float: inline-center;
