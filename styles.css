@@ -1,8 +1,8 @@
-body {
+dbody {
     font-family: 'Arial', sans-serif;
     margin: 10px;
     text-align: left;
-    background-color: bisque;
+    background-color: LightCyan;
 }
 .product{
     display:grid;
@@ -14,7 +14,7 @@ body {
     height: 20%;
     justify-content: normal;
     align-items: normal;
-    background-color: rgb(102, 192, 199);
+    background-color: rgb(224, 225, 225 );
 }
 .products, .cart {
     float: inline-center;
